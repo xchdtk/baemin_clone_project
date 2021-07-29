@@ -1,0 +1,37 @@
+{
+  "name": "clone_baemin_store_backend",
+  "version": "1.0.0",
+  "description": "배민 문방구 클론코딩 -서버",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JIYUN97/clone_baemin_store_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JIYUN97/clone_baemin_store_backend/issues"
+  },
+  "homepage": "https://github.com/JIYUN97/clone_baemin_store_backend#readme",
+  "dependencies": {
+    "D": "^1.0.0",
+    "bcrypt": "^5.0.1",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1",
+    "install": "^0.13.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.12.3",
+    "morgan": "^1.10.0",
+    "node-fetch": "^2.6.1",
+    "nodemon": "^2.0.7",
+    "passport": "^0.4.1",
+    "passport-kakao": "^1.0.1",
+    "redis": "^3.1.0"
+  }
+}

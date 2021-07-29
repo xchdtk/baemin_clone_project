@@ -1,1 +1,0 @@
-# baemin_clone_project
