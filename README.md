@@ -21,6 +21,7 @@
   - **BACKEND** 
 
      ![](https://img.shields.io/badge/Node.js-유지윤-pink?style=for-the-badge)
+     ![](https://img.shields.io/badge/Node.js-김진수-pink?style=for-the-badge)
      
 <hr>
 
