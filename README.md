@@ -9,7 +9,7 @@
 ## 📌 프로젝트 기간 및 팀원 소개
 - 기간 : 2021.04.09 ~ 2021.04.22
 
-- 팀원 (프론트 3명 / 백엔드 2명
+- 팀원 (프론트 3명 / 백엔드 2명)
   - **FRONTEND**
     
     ![](https://img.shields.io/badge/React-김율아-blue?style=for-the-badge)
